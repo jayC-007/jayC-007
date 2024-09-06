@@ -3,6 +3,7 @@
 <h3 align="center">A passionate FullStack MERN developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reconj4yz&label=Profile%20views&color=0e75b6&style=flat" alt="reconj4yz" /> </p>
+![Profile views](https://profile-counter.glitch.me/reconj4yz/count.svg?start=5000)
 
 - I'm currently working on **some new projects**
 
