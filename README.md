@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on some new projects.<br>👯 I’m looking to collaborate on making a MERN web app.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN stack development<br>⚡ Fun fact: I have made an working Instagram Clone, you can check it out at 
+🔭 I’m currently working on some new projects.<br>👯 I’m looking to collaborate on making a MERN web app.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN stack development
 
 
 ## 🌐 Socials:
