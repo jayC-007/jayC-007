@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on some new projects.<br>👯 I’m looking to collaborate on making a MERN web app.<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN stack development
+🔭 I’m currently working on some new projects.<br>👯 I’m looking to collaborate on making a MERN web app.<br>🌱 I’m currently learning Next.js<br>💬 My Portfolio : jaichawla.netlify.app
 
 
 ## 🌐 Socials:
